@@ -1,6 +1,6 @@
 package org.example;
 
-public class ResetGemoSecond {
+public class ResetDemoSecond {
     public static void main(String[] args) {
         System.out.println("Second reset demo");
     }
