@@ -7,6 +7,7 @@ public class ResetDemo {
         System.out.println("Version 1.0.4 --> Hello World");
 
         System.out.println("Version 1.0.4");
+        System.out.println("Version 1.0.4--> Mixed");
 
 
     }
